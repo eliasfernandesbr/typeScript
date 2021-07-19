@@ -1,0 +1,11 @@
+{
+  "name": "typeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eliasfernandesbr/typeScript.git",
+  "author": "elias fernandes <eliasfernandescoutinho@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
