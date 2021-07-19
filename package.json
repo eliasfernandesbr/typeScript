@@ -4,6 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:eliasfernandesbr/typeScript.git",
   "author": "elias fernandes <eliasfernandescoutinho@gmail.com>",
+  "scripts": {
+    "start": "live-server"
+  },
   "license": "MIT",
   "dependencies": {
     "live-server": "^1.2.1"

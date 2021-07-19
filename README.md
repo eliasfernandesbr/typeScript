@@ -4,3 +4,4 @@ npm install -g typescript
 tsc --init > irá criar o arquivo tsconfig.json
 tsc basic.ts > irá criar o arquivo javascript compilado do TS
 npm install -g ts-node > torna possível rodar TS no terminal;
+tsc -w > fica monitorando a compilação de TS para JS
